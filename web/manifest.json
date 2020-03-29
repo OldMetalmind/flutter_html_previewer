@@ -1,6 +1,6 @@
 {
-    "name": "wordpress_content_validator",
-    "short_name": "wordpress_content_validator",
+    "name": "html_content_validator",
+    "short_name": "html_content_validator",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
